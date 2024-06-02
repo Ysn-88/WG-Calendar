@@ -2,13 +2,11 @@
   <q-layout view="lHh Lpr lFf">
     <q-header elevated class="bg-secondary">
       <q-toolbar>
-        <q-avatar>
-          <img src="../assets/wgn.jpg" />
-        </q-avatar>
+        <p class="text-black q-mt-md">Your LOGO</p>
 
         <q-toolbar-title class="text-caption text-primary">
           <span class="q-pr-sm text-h6" style="font-family: Copperplate"
-            >WAGNER</span
+            >WG</span
           >Kalender
         </q-toolbar-title>
 
