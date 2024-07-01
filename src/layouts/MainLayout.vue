@@ -5,9 +5,7 @@
         <p class="text-black q-mt-md">Your LOGO</p>
 
         <q-toolbar-title class="text-caption text-primary">
-          <span class="q-pr-sm text-h6" style="font-family: Copperplate"
-            >WG</span
-          >Kalender
+          Kalender
         </q-toolbar-title>
 
         <q-btn-dropdown outline color="primary" :label="selectedComponentLabel">
